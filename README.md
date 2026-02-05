@@ -10,31 +10,31 @@ to withdraw money,deposit.
 
 # Use Case Diagram:
 
-<img width="1155" height="800" alt="Screenshot 2025-08-18 102417" src="https://github.com/user-attachments/assets/1ee37b6e-df70-4df5-aded-1288f37c4e70" />
+<img width="1232" height="1060" alt="image" src="https://github.com/user-attachments/assets/5f61173a-e50a-49d4-9b56-2fc1b4c3cd7f" />
 
 
 # Class Diagram:
 
-<img width="1242" height="843" alt="Screenshot 2025-08-18 102433" src="https://github.com/user-attachments/assets/bd019a33-e2c2-4784-8464-85eba3bbad8c" />
+<img width="1219" height="1046" alt="image" src="https://github.com/user-attachments/assets/edd61c27-5c1d-4920-96c6-db54e7fb6dec" />
 
 
 # Sequence diagram:
 
-<img width="1360" height="808" alt="Screenshot 2025-08-18 103210" src="https://github.com/user-attachments/assets/98e67901-8641-4fe2-9c55-cc162203c5e2" />
+<img width="1238" height="1059" alt="image" src="https://github.com/user-attachments/assets/f350014d-47e9-4835-967a-d724afa93631" />
 
 # Activity Diagram:
 
-<img width="799" height="724" alt="Screenshot 2025-08-18 103144" src="https://github.com/user-attachments/assets/a92bd6d9-6341-451f-a223-ecce986c60bd" />
+<img width="1242" height="1078" alt="image" src="https://github.com/user-attachments/assets/1c593a52-1809-434a-a486-f061a5096c14" />
 
 
 # Communication Diagram:
 
-<img width="1203" height="634" alt="Screenshot 2025-08-18 103154" src="https://github.com/user-attachments/assets/7d062e25-eada-419a-9627-5e80f744343c" />
+<img width="1234" height="1071" alt="image" src="https://github.com/user-attachments/assets/bfb4a97b-df13-4d61-9608-e77cb5334832" />
 
 
 # Package Diagram:
 
-<img width="1309" height="792" alt="Screenshot 2025-08-18 102445" src="https://github.com/user-attachments/assets/6734673a-c1a3-44a1-988f-1d046ebf8058" />
+<img width="1151" height="727" alt="image" src="https://github.com/user-attachments/assets/03bf8122-9cfc-4266-bb75-6d17b9bb4cc0" />
 
 ### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
